@@ -2,4 +2,4 @@
 
 ## Running the Simulation
 To run the simulation, ensure you have Jupyter Notebook installed and open
-`robot_simulation.ipynb`.
+`(___).ipynb` files.
