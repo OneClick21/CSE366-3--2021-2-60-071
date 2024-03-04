@@ -12,4 +12,4 @@ This folder contains all the deliverables for the "Dynamic Robot Movement Simula
 * We also make some changes in the `visualize_grid_and_path` function.
     - Add label for every steps in the grid.
 
-**We implement both `A*` and `UCS` in the same file**
+**We implemented both `A*` and `UCS` in the same file**
